@@ -1,0 +1,251 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 3, 2020, 5:28:47 PM
+    Author     : thain
+*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:Times New Roman Times;
+    box-sizing: border-box;
+}
+
+.navbar{
+    width: 100%;
+    height: 100px;
+    background: #fff9f3 !important ;
+    display: none;
+}
+.logo{
+    padding-left: 241px;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color:  #b3b7b8 ;
+    font-weight: bold;
+}
+.collapse ul li a:hover {
+    text-decoration: underline;
+    color: #ffc480 !important;
+}
+.collapse{
+    padding-right: 250px;
+}
+.collapse ul li {
+    padding: 0px;
+    margin: 10px;
+}
+
+.collapse .btn{
+  widows: 10px;
+  border: 5px solid white;
+  border-radius: 20px;
+  background: white;
+  color: #ffc480 !important;
+}
+.slider img{
+    width: 100%;
+    height: 100px;
+}
+
+.title-slider h1{
+    font-weight: bold;
+    color: #ffc178;
+    font-size: 2.5rem;
+}
+.title-slider p{
+    font-size: 17px;
+    color: #b3b7b8;
+}
+.title-slider .btn-slider{
+    width: 173px;
+    height: 55px;
+    border: 9px solid #ffc178;
+    border-radius: 30px;
+    background: #ffc178;
+    color: white;
+    margin-top: 3px;
+}
+.title-center
+{
+    text-align: center;
+}
+.title-Our h1{
+    font-weight: bold;
+    margin-top: -102px;
+}
+.title1 p{
+    font-size: 14px;
+    color: #b3b7b8;
+}
+.card .bg-img {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.card-bg{
+    width: 360px;
+    height: 426px;
+}
+.thumb img{
+    width: 346px;
+    height: 412px;
+    padding-top: 40px;
+    margin-left: 52px;
+}
+.card-img-top-bg{
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+
+.frames{
+    margin-top: -147px;
+    margin-bottom: 10px;
+    overflow: hidden;
+
+}
+.frames-left {
+    margin-bottom: 20px;
+    width: 732px;
+    height: 870px;
+}
+.home-img {
+    width: 374px;
+    height: 362px;
+}
+.music-img{
+    width: 73px;
+    height: 72px;
+}
+.title-frames h1{
+    font-weight: bold;
+    padding-bottom: 16px;
+    color: #252c3a;
+}
+.title-frames p{
+    color: #b3b7b8;
+}
+.students h1 {
+    font-weight: bold;
+    color: #ffba00 !important;
+}
+.students p{
+    line-height: 0.5;
+    color: #ffba00 !important;
+}
+.courses h1 {
+    font-weight: bold;
+    color: #ff5f72  !important;
+}
+.courses p{
+    line-height: 0.5;
+    color: #ff5f72 !important;
+}
+.hoursvideo h1 {
+    font-weight: bold;
+    color: #43cb83  !important;
+}
+.hoursvideo p{
+    line-height: 0.5;
+    color: #43cb83 !important;
+}
+.card{
+    margin-top: 20px;
+}
+.frames-img-right {
+    width: 350px;
+    height: 1037px;
+    margin-top:-894px;
+}
+.card-img-top {
+    width: 270px;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+.bg-post {
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 15px;
+}
+.title-Our{
+    text-align: center;
+}
+.card-body a{
+    text-align: left;
+    color:  #252c3a ;
+    font-weight: bold;
+    line-height: 1.2;
+    font-size: 16px;
+}
+.card-body a:hover {
+    text-decoration: underline;
+    color: #ffc480 !important;
+}
+.card-body p{
+    color: #5a6e79;
+     font-size: 14px;
+}
+
+.frames-img-footer {  
+    background-image: url('../img/footer-img.png');
+    height: 350px;
+}
+.keep {
+    font-weight: bold;
+}
+
+.footer-custom{
+    width: 100%;
+    height: 265px;
+    position: absolute;
+    margin-top: 30px;
+    background: #252c3a;
+}
+.line-img p{
+    color: #969595;
+    width: 300px;
+    padding-left: 10px;
+    margin-top: -24px;
+    font-size: 13px;
+}
+.item .icon i:hover{
+    background-color: #0089fd;
+}
+.item i{
+    padding-left: 10px;
+}
+.title-fertured  p{
+    margin-top: 27px;
+    padding-left: 34px;
+    color: #b0b2b5;
+    font-size: 13px;
+}
+.line p{
+    color:#969595;
+    font-size: none;
+}
+
+.form-inline { 
+     padding-left: 20px;
+}
+.footer-copyright{
+    padding-top: 50px;
+    background: #1d232e;
+    font-weight: bold;
+    font-family: Times New Roman Times;
+}
+
+
+
+
+
+
+
+
+
